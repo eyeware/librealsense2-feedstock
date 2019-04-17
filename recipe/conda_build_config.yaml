@@ -1,0 +1,5 @@
+channel_sources:
+  - eyeware,conda-forge,defaults
+channel_targets:
+  - eyeware main
+
